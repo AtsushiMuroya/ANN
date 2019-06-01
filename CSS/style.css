@@ -170,7 +170,7 @@ header{
   margin: 0;
 }
 .Recruit{
-  background-color: #F4F4F4
+  background-color: #F4F4F4;
 }
 .Recruit__Inner{
   max-width: 1000px;
@@ -191,6 +191,9 @@ header{
   width: 100px;
   height: 100px;
   margin:
+}
+.Information h3{
+  font-size: 16px;
 }
 .Information__Top{
   padding-top: 100px;
@@ -213,6 +216,7 @@ header{
   margin-bottom: 20px;
 }
 .Information-Art-Top-Left{
+  width: 460px;
   height: 100px;
   display: flex;
   justify-content: space-between;
@@ -222,9 +226,9 @@ header{
   margin: 0px 0px 0px 20px;
 }
 .Information-Art-Top-Left-Content{
-  height: 100%;
 }
 .Information-Art-Top-Right{
+  width: 460px;
   height: 100px;
   display: flex;
   justify-content: space-between;
@@ -242,6 +246,7 @@ header{
   padding-bottom: 120px
 }
 .Information-Art-End-Left{
+  width: 460px;
   height: 100px;
   display: flex;
   justify-content: space-between;
@@ -251,6 +256,7 @@ header{
   margin: 0px 0px 0px 20px;
 }
 .Information-Art-End-Right{
+  width: 460px;
   height: 100px;
   display: flex;
   justify-content: space-between;
@@ -293,4 +299,15 @@ header{
 }
 .Blog-Art-Right{
   text-align: center;
+}
+.Footer__Top{
+
+}
+.Footer__End{
+  text-align: center;
+  height: 77px;
+  background-color: #8F969D;
+}
+.Footer__End p{
+  margin: 0;
 }
