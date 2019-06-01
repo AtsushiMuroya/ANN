@@ -259,3 +259,38 @@ header{
   padding: 10px;
   margin: 0px 0px 0px 20px;
 }
+.Blog h2{
+  text-align: center;
+  padding-top: 100px;
+  padding-bottom: 65px;
+  margin: 0;
+}
+.Blog h3{
+  font-size: 16px;
+}
+.Blog p{
+  font-size: 8px;
+}
+.Blog-Art{
+  max-width: 1000px;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.Blog-Art-Img{
+  width: 220px;
+  height: 220px;
+}
+.Blog-Art-Left{
+  text-align: center;
+}
+.Blog-Art-Center-Left{
+  text-align: center;
+}
+.Blog-Art-Center-Right{
+  text-align: center;
+}
+.Blog-Art-Right{
+  text-align: center;
+}
