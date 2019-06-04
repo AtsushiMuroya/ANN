@@ -93,6 +93,7 @@ header{
   filter:alpha(opacity=70);
 }
 .Contents-Salon{
+  pointer-events: none;
   position: absolute;
   top: 0;
   left: 0;
@@ -120,6 +121,7 @@ header{
   filter:alpha(opacity=70);
 }
 .Contents-Concept{
+  pointer-events: none;
   position: absolute;
   top: 0;
   left: 0;
@@ -149,6 +151,7 @@ header{
   filter:alpha(opacity=70);
 }
 .Contents-Gellary{
+  pointer-events: none;
   position: absolute;
   top: 0;
   left: 0;
